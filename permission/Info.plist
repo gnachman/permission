@@ -22,6 +22,8 @@
 	<string>1</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Just because</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 George Nachman. All rights reserved.</string>
 	<key>NSMainNibFile</key>

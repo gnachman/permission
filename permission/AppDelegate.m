@@ -16,6 +16,7 @@
 @implementation AppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
+    [NSTask launchedTaskWithLaunchPath:@"/usr/local/bin/imagesnap" arguments:@[]];
     // Insert code here to initialize your application
 }
 
